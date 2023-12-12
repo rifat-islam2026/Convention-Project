@@ -16,6 +16,9 @@ ul.list-unstyled {
 #primary-card{
     box-shadow: 0px 42px 34px 0px rgba(63, 135, 245, 0.25);
 }
+#client-card{
+    box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.13);
+}
 @media screen and (max-width: 768px){
     .moment-content{
         text-align: center !important;
