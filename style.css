@@ -10,7 +10,12 @@ img.d-block.w-100 {
 .carousel-item.active{
     height: 600px;
 }
-
+ul.list-unstyled {
+    margin-bottom: 5px!important;
+}
+#primary-card{
+    box-shadow: 0px 42px 34px 0px rgba(63, 135, 245, 0.25);
+}
 @media screen and (max-width: 768px){
     .moment-content{
         text-align: center !important;
